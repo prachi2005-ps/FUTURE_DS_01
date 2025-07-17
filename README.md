@@ -30,7 +30,9 @@ This project visualizes key sales metrics using Power BI, enabling business owne
 - Business Storytelling through Visuals  
 - Time Series Analysis
 
-## 📁 Dataset
+## 📁   Folder Structure
+E-Commerce Dataset
+E-Commerce Dashboard
 
 - Sample e-commerce transactional data with fields like:
   - `Invoice`, `Customer ID`, `InvoiceDate`, `Quantity`, `Price`, `Country`, `Description`
